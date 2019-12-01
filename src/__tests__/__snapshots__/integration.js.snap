@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Queries fetches random  joke 1`] = `
+Object {
+  "data": Object {
+    "random": Object {
+      "jokes": Array [
+        Object {
+          "id": "NpcPeTgZT2KyZ6jRz-mdnw",
+          "value": "Chuck Norris is so fast that the GPS speaks to him in the past tense.",
+        },
+      ],
+      "message": "random joke fetched!",
+      "success": true,
+    },
+  },
+  "errors": undefined,
+  "extensions": undefined,
+  "http": Object {
+    "headers": Headers {
+      Symbol(map): Object {},
+    },
+  },
+}
+`;
