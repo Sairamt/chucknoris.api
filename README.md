@@ -35,3 +35,4 @@
         }
         
        
+3) You can run tests using Jest. just run  <h4> Jest </h4> on the command line
