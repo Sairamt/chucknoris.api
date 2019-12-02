@@ -8,7 +8,7 @@
         
           query getRandomJokes {
             random { 
-               success
+                success
                 message
                 jokes{
                   id      	      
