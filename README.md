@@ -2,7 +2,7 @@
     graphQL api using apollo server
 
     <h3>Notes for testing </h3>
-1) npm start will open the the apollo playground for the @ http://localhost:4000
+1) npm start will open the the apollo playground  @ http://localhost:4000
 2) we can test following queries and mutations in the playground
     <h3> a) random joke </h3>
         
